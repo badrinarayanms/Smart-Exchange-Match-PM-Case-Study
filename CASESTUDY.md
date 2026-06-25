@@ -1,6 +1,10 @@
 # 🔄 Smart Exchange Match — PM Case Study
 Enabling successful exchanges even when inventory is unavailable.
 
+# Notion Link:
+https://app.notion.com/p/Smart-Exchange-Match-PM-Case-Study-38a7a999c0a5816db672d29566e09404?source=copy_link
+
+# 
 
 **Enabling successful exchanges even when inventory is unavailable.**
 
