@@ -972,7 +972,7 @@ Because 48% of customers who can't exchange simply leave. That's not an acceptab
 
 ---
 
-> 📬 **Case Study prepared by:** [Your Name] | Product Management Portfolio 2026
+> 📬 **Case Study prepared by:** Badri Narayan M S | Product Management Portfolio 2026
 > 
 
 > 
