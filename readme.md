@@ -690,7 +690,7 @@ Exchange confirmed → Satisfaction survey sent
     - Inventory status tag: *"L is currently out of stock"*
     - **Primary CTA:** "Find Exchange Match" (filled button)
     - **Secondary CTA:** "Get Refund Instead" (text link)
-    - Info banner: *"We'll search for another customer who needs your size. This is managed by [Platform] and backed by our Exchange Guarantee."*
+    - Info banner: *"We'll search for another customer who needs your size. This is managed by e-commerce platform and backed by our Exchange Guarantee."*
 - **Expected User Actions:** Select size → Tap "Find Exchange Match" → Confirm entry into pool
 
 ---
@@ -702,7 +702,7 @@ Exchange confirmed → Satisfaction survey sent
     - Celebratory illustration (two packages swapping)
     - Match card showing: Item name, size being received, match partner's trust badge
     - Estimated exchange completion timeline (e.g., "Expected by Jan 12")
-    - Condition note: *"Item verified by [Platform] before dispatch"*
+    - Condition note: *"Item verified by e-commerce platform before dispatch"*
     - **Primary CTA:** "Approve Exchange" (filled button)
     - **Secondary CTA:** "Decline — Get Refund" (text link)
     - Countdown timer: *"Offer expires in 47:32"*
